@@ -1,0 +1,1 @@
+worker: node Jameyxd.js
